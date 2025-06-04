@@ -1,4 +1,4 @@
-![시작사진](https://s3.ap-northeast-2.amazonaws.com/order.me/readme.png)
+![시작사진](https://cofface.netlify.app/assets/readme.png)
 <br />
 
 ## 📌 목차
@@ -63,12 +63,12 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
 
 <table style="text-align: center;" width="100%">
   <tr>
-    <th style="text-align: center;" width="16.66%"><img src="https://enjoy-trip-static-files.s3.ap-northeast-2.amazonaws.com/88D65731-09D7-4950-A1A8-3FB20363A192-43052-00001CFE9E7EA0C9.png" width="150" height="150"/></th>
-    <th style="text-align: center;" width="16.66%"><img src="https://github.com/user-attachments/assets/76820bca-f807-4af5-bf93-09c9335fcbee" width="150" height="150"/></th>
-    <th style="text-align: center;" width="16.66%"><img src="https://github.com/user-attachments/assets/4b2e42fb-1005-4453-a418-02ae430bcd93" width="150" height="150"/></th>
-    <th style="text-align: center;" width="16.66%"><img src="https://github.com/user-attachments/assets/f3be0d04-1132-46c5-affb-929d97fb0b58" width="150" height="150"/></th>
-    <th style="text-align: center;" width="16.66%"><img src="https://enjoy-trip-static-files.s3.ap-northeast-2.amazonaws.com/C1DFE235-A57E-467C-A243-013363DDFBCC-43052-00001CFE3E2204E4.png" width="150" height="150"/></th>
-    <th style="text-align: center;" width="16.66%"><img src="https://github.com/user-attachments/assets/4ac5efaf-080e-4b20-8796-13416f9e6cd5" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/88D65731-09D7-4950-A1A8-3FB20363A192-43052-00001CFE9E7EA0C9.png" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/415188383-76820bca-f807-4af5-bf93-09c9335fcbee.png" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/415188473-4b2e42fb-1005-4453-a418-02ae430bcd93.png" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/415188185-f3be0d04-1132-46c5-affb-929d97fb0b58.png" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/C1DFE235-A57E-467C-A243-013363DDFBCC-43052-00001CFE3E2204E4.png" width="150" height="150"/></th>
+    <th style="text-align: center;" width="16.66%"><img src="https://cofface.netlify.app/assets/415188726-4ac5efaf-080e-4b20-8796-13416f9e6cd5.png" width="150" height="150"/></th>
   </tr>
   <tr>
     <td style="text-align: center;" width="16.66%">이수환<br/><a href="https://github.com/getbravelee">@getbravelee</a></td>
@@ -108,10 +108,10 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <th style="text-align: center;" width="25%">홈페이지 하단</th>
   </tr>
   <tr>
-    <td style="text-align: center;" width="25%"><img height="400" alt="login" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/login.jpg" ></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/home_lock.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/home_unlock.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/home_under.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="login" src="https://cofface.netlify.app/assets/login.jpg" ></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/home_lock.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/home_unlock.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/home_under.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: center;" width="25%">문자 인증 회원가입/로그인 기능을 제공합니다.</td>
@@ -128,10 +128,10 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <th style="text-align: center;" width="25%">카드설정 페이지</th>
   </tr>
   <tr>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/research_menu.jpg" ></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/research_option.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/setting.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/register_card.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/research_menu.jpg" ></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/research_option.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/setting.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/register_card.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: center;" width="25%">처음 가입한 사용자의 경우 자신이 좋아하는 메뉴들를 선택하면 <br/> 추후 추천 알고리즘에 반영됩니다.</td>
@@ -146,8 +146,8 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <th style="text-align: center;" width="25%">카드등록</th>
   </tr>
   <tr>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/register_face.jpg" ></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/app_pic/register_card.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/register_face.jpg" ></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/register_card.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: center;" width="25%">전면 카메라로 정면/좌/우/상/하 얼굴을 가이드라인에 맞게 캡쳐하여 등록할 수 있습니다.</td>
@@ -167,10 +167,10 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <th style="text-align: center;" width="25%">포장/방문 페이지</th>
   </tr>
   <tr>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-1.jpg" ></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-2.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-3.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-4.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-1.jpg" ></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-2.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-3.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-4.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: center;" width="25%">처음 로그인 시 얼굴인식이 보조모니터를 통해 진행됩니다.</td>
@@ -185,10 +185,10 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <th style="text-align: center;" width="25%">비회원 안내 페이지</th>
   </tr>
   <tr>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-5.jpg" ></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-6.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-7.jpg"></td>
-    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/kiosk-8.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-5.jpg" ></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-6.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-7.jpg"></td>
+    <td style="text-align: center;" width="25%"><img height="400" alt="" src="https://cofface.netlify.app/assets/kiosk-8.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: center;" width="25%">카드를 드래그하여 리더기 쪽으로 올리면 자동 결제가 진행됩니다.</td>
@@ -231,7 +231,6 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
   </tr>
 </table>
 
-
 ### 🧋 키오스크
 
 <table style="text-align: center;" width="100%">
@@ -254,7 +253,6 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
     <td style="text-align: center;" width="50%"><img src="https://stwch.netlify.app/kyu_none_all.gif" height="400"></td>
   </tr>
 </table>
-
 
 ## 🔍 주요 기술
 
@@ -352,15 +350,15 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
 
 ### Back
 
-![기술스택1](https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/skill-back.png)
+![기술스택1](https://cofface.netlify.app/assets/skill-back.png)
 
 ### Front
 
-![기술스택1](https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/skill-front.png)
+![기술스택1](https://cofface.netlify.app/assets/skill-front.png)
 
 ### Infra
 
-![기술스택1](https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/skill-infra.png)
+![기술스택1](https://cofface.netlify.app/assets/skill-infra.png)
 
 ## 🗺️ 시스템 아키텍처
 
@@ -929,32 +927,32 @@ AI 기반 성별/연령 분석으로 비회원도 맞춤 추천 제공<br/>
 <details>
   <summary><strong>기능 명세서</strong></summary>
   <h3>🔹 키오스크</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/func-kiosk.png" alt="기능명세서">
+  <img src="https://cofface.netlify.app/assets/func-kiosk.png" alt="기능명세서">
   <h3>🔹 유저 앱</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/func-user-app.png" alt="기능명세서">
+  <img src="https://cofface.netlify.app/assets/func-user-app.png" alt="기능명세서">
 </details>
 
 <details>
   <summary><strong>erd</strong></summary>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/erd.png" alt="erd">
+  <img src="https://cofface.netlify.app/assets/erd.png" alt="erd">
 </details>
 
 <details>
   <summary><strong>피그마</strong></summary>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/figma1.png" alt="피그마">
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/figma2.png" alt="피그마">
+  <img src="https://cofface.netlify.app/assets/figma1.png" alt="피그마">
+  <img src="https://cofface.netlify.app/assets/figma2.png" alt="피그마">
 </details>
 
 <details>
   <summary><strong>api 명세서</strong></summary>
   <h3>🔹 키오스크</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/api-kiosk.png" alt="api명세서">
+  <img src="https://cofface.netlify.app/assets/api-kiosk.png" alt="api명세서">
   <h3>🔹 유저 앱</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/api-user-app.png" alt="api명세서">
+  <img src="https://cofface.netlify.app/assets/api-user-app.png" alt="api명세서">
   <h3>🔹 얼굴 인식</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/api-face.png" alt="api명세서">
+  <img src="https://cofface.netlify.app/assets/api-face.png" alt="api명세서">
   <h3>🔹 결제</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/api-pay.png" alt="api명세서">
+  <img src="https://cofface.netlify.app/assets/api-pay.png" alt="api명세서">
   <h3>🔹 알림</h3>
-  <img src="https://s3.ap-northeast-2.amazonaws.com/order.me/readme_pic/api-notice.png" alt="api명세서">
+  <img src="https://cofface.netlify.app/assets/api-notice.png" alt="api명세서">
 </details>
