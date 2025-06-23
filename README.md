@@ -24,6 +24,8 @@
 
 > 🔗 [노션 링크](https://shiny-headlight-8fc.notion.site/AI-Order-me-1ddc09e299c6808398ecd681881b752f?pvs=4)
 
+> 🎥 [소개 영상]([https://www.youtube.com/watch?v=3X038HmPVuc](https://www.youtube.com/watch?v=6UcyGEWqFGU)) 
+
 > 🖥️ [키오스크 배포 URL](https://kiosk.cofface.store)
 
 > 📲 [앱 배포 URL](https://app.cofface.store)
